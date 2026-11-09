@@ -18,3 +18,7 @@ else
 {
     Console.WriteLine("You are not adult");
 }
+
+for(int i = 0 ; i<5 ; i++){
+    Console.WriteLine(i);
+}
